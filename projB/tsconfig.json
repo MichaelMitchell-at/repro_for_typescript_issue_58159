@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "emitDeclarationOnly": true,
+    "declaration": true
+  },
+  "include": ["index.ts"],
+  "references": [
+    {"path": "../projA"}
+  ]
+}

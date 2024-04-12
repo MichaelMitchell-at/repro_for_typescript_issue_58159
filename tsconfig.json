@@ -1,0 +1,9 @@
+{
+  "include": [],
+  "references": [
+    {"path": "./projA"},
+    {"path": "./projB"},
+    {"path": "./projC"},
+    {"path": "./projD"}
+  ]
+}
